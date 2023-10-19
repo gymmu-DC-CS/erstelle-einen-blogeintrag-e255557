@@ -10,3 +10,19 @@ body {
   font-family: sans-serif;
 }
 
+#Fragen {
+  border: 2pt solid black;
+  width: fit-content;
+  padding: 2px;
+}
+
+.rechts {
+  float: right;
+  border: 5px solid rgb(123, 100, 117);
+}
+
+
+a {
+  color: rgb(118, 24, 134);
+}
+
