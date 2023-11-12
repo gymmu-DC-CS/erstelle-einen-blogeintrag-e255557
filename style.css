@@ -6,6 +6,27 @@
 
 body {
   margin: 0;
-  background-color: lightgray;
+  background-color: rgb(210, 189, 189);
   font-family: sans-serif;
 }
+
+#Fragen {
+  border: 2pt solid black;
+  width: fit-content;
+  padding: 2px;
+}
+
+h3 {
+  color: rgb(136, 83, 111);
+}
+
+.rechts {
+  float: right;
+  border: 5px solid rgb(123, 100, 117);
+}
+
+
+a {
+  color: rgb(118, 24, 134);
+}
+
